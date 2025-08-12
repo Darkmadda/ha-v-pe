@@ -1,7 +1,7 @@
 {
   "type": "micro",
   "wake_word": "glados_please",
-  "author": "master phooey",
+  "author": "Dylan Thurston",
   "website": "https://github.com/MasterPhooey/MicroWakeWord-Trainer-Docker",
   "model": "glados_please.tflite",
   "trained_languages": [

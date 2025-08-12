@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "hey glados",
+  "wake_word": "hey_glados",
   "author": "Dylan Thurston",
   "website": "https://github.com/MasterPhooey/MicroWakeWord-Trainer-Docker",
   "model": "hey_glados.tflite",
